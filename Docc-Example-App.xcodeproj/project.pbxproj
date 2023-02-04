@@ -16,8 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DC6A7AF0298F1B7F00735E27 /* core-package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "core-package"; sourceTree = "<group>"; };
-		DC6A7AF1298F1B8C00735E27 /* ui-package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = "ui-package"; sourceTree = "<group>"; };
+		DC6A7AF3298F1D0B00735E27 /* core-package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "core-package"; path = "Docc-Example-App/core-package"; sourceTree = "<group>"; };
+		DC6A7AF4298F1D1900735E27 /* ui-package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "ui-package"; path = "Docc-Example-App/ui-package"; sourceTree = "<group>"; };
 		DC7835A7298C60D000B10F25 /* Docc-Example-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Docc-Example-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC7835AA298C60D000B10F25 /* Docc_Example_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Docc_Example_AppApp.swift; sourceTree = "<group>"; };
 		DC7835AC298C60D000B10F25 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,11 +38,11 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DC6A7AEF298F1B7F00735E27 /* Packages */ = {
+		DC6A7AF2298F1D0B00735E27 /* Packages */ = {
 			isa = PBXGroup;
 			children = (
-				DC6A7AF0298F1B7F00735E27 /* core-package */,
-				DC6A7AF1298F1B8C00735E27 /* ui-package */,
+				DC6A7AF3298F1D0B00735E27 /* core-package */,
+				DC6A7AF4298F1D1900735E27 /* ui-package */,
 			);
 			name = Packages;
 			sourceTree = "<group>";
@@ -50,7 +50,7 @@
 		DC78359E298C60D000B10F25 = {
 			isa = PBXGroup;
 			children = (
-				DC6A7AEF298F1B7F00735E27 /* Packages */,
+				DC6A7AF2298F1D0B00735E27 /* Packages */,
 				DC7835A9298C60D000B10F25 /* Docc-Example-App */,
 				DC7835A8298C60D000B10F25 /* Products */,
 				DCE4FCF4298C683C00B4E7BE /* Frameworks */,
