@@ -23,7 +23,7 @@ for ARCHIVE in doc_archives/*.doccarchive; do
     $(xcrun --find docc) process-archive transform-for-static-hosting "$ARCHIVE" --hosting-base-path Docc-Example-App/$ARCHIVE_NAME --output-path docs/$ARCHIVE_NAME
 done
 
-git config user.name "cantekinalp"
+git config user.name "cantekinalp04"
 
 git config user.email "cantekinalp04@gmail.com"
 
