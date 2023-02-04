@@ -4,7 +4,7 @@ rm -rf docsData
 
 echo "Building DocC documentation for Docc-Example-App..."
 
-xcodebuild -project Docc-Example-App.xcodeproj -derivedDataPath docsData -scheme Docc-Example-App -destination 'platform=iOS Simulator,name=iPhone 13 Pro Max' -parallelizeTargets docbuild
+xcodebuild -project Docc-Example-App.xcodeproj -derivedDataPath docsData -scheme Docc-Example-App -destination 'platform=iOS Simulator,name=iPhone 14' -parallelizeTargets docbuild
 
 echo "Copying DocC archives to doc_archives..."
 
