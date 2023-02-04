@@ -25,7 +25,7 @@ done
 
 git config user.name "cantekinalp"
 
-git config user.email "cantekinalp@gmail.com"
+git config user.email "cantekinalp04@gmail.com"
 
 # Change the GitHub URL to your repository
 git remote set-url origin https://cantekinalp04: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@github.com/cantekinalp04/docc-exploring/
