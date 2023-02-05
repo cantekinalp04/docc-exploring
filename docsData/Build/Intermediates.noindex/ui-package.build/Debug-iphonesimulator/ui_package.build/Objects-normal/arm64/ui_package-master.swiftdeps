@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "d3f21f06a04f2a417beec874253b6db253d6b880da9bf3cb9aabb9e27098ab6d"
+build_start_time: [1675558396, 605186939]
+build_end_time: [1675558399, 550837039]
+inputs:
+  "/Users/cantekinalp/Documents/Projects/Others/docc-exploring.git/Packages/ui-package/Sources/ui_package/ui_package.swift": [1675553225, 290954351]

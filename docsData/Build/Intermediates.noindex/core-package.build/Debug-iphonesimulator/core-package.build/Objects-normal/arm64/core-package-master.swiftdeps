@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "5ca157236aa42ace5cb37bef967845bf9d58fdcf07e2e167c7cedfc0dda1a6d3"
+build_start_time: [1675558396, 605185985]
+build_end_time: [1675558398, 301279067]
+inputs:
+  "/Users/cantekinalp/Documents/Projects/Others/docc-exploring.git/Packages/core-package/Sources/core-package/core_package.swift": [1675374105, 85881233]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "7aca814adef5d9151a641a99a9d21ef723ba9b09d4447150cd67d0ef995b9aff"
+build_start_time: [1675558398, 664335966]
+build_end_time: [1675558401, 298619985]
+inputs:
+  "/Users/cantekinalp/Documents/Projects/Others/docc-exploring.git/Docc-Example-App/ContentView.swift": [1675433848, 177773952]
+  "/Users/cantekinalp/Documents/Projects/Others/docc-exploring.git/Docc-Example-App/Docc_Example_AppApp.swift": [1675372880, 109288692]

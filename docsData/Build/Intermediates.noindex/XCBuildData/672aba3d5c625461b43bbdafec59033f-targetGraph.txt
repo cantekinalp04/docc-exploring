@@ -1,0 +1,12 @@
+Target dependency graph (6 targets)
+core-package in core-package, no dependencies
+core-package in core-package, depends on:
+core-package in core-package (explicit)
+ui_package in ui-package, no dependencies
+ui_kit_package in ui-package, no dependencies
+ui_package in ui-package, depends on:
+ui_package in ui-package (explicit)
+ui_kit_package in ui-package (explicit)
+Docc-Example-App in Docc-Example-App, depends on:
+core-package in core-package (explicit)
+ui_package in ui-package (explicit)

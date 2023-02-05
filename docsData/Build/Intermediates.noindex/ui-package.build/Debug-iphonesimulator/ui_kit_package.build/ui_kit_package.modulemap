@@ -1,0 +1,4 @@
+module ui_kit_package {
+header "ui_kit_package-Swift.h"
+export *
+}

@@ -23,6 +23,7 @@
 		DC7835B1298C60D000B10F25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DCF7DE2E298F1DA900B0E6FA /* core-package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "core-package"; path = "Packages/core-package"; sourceTree = "<group>"; };
 		DCF7DE2F298F1DB400B0E6FA /* ui-package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "ui-package"; path = "Packages/ui-package"; sourceTree = "<group>"; };
+		DCF7DE30298F382200B0E6FA /* core_location_package */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = core_location_package; path = Packages/core_location_package; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +88,7 @@
 			children = (
 				DCF7DE2E298F1DA900B0E6FA /* core-package */,
 				DCF7DE2F298F1DB400B0E6FA /* ui-package */,
+				DCF7DE30298F382200B0E6FA /* core_location_package */,
 			);
 			name = Packages;
 			sourceTree = "<group>";

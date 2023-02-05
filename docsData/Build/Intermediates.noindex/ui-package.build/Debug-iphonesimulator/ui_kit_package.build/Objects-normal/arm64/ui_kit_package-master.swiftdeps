@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "2e93532ec0ddfe8a78754a55312116cf0f8dc0f3998f267926b4d0846d9b9162"
+build_start_time: [1675558396, 605186939]
+build_end_time: [1675558399, 556428909]
+inputs:
+  "/Users/cantekinalp/Documents/Projects/Others/docc-exploring.git/Packages/ui-package/Sources/ui_kit_package/CustomView.swift": [1675551772, 3505945]
